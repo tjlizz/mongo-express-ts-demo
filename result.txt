@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\mongo-express-ts-demo
+├─.gitignore
+├─package-lock.json
+├─package.json
+├─readme.md
+├─tsconfig.json
+├─tslint.json
+├─src
+|  └index.ts
+├─dist
+|  ├─index.js
+|  └index.js.map
+ 
